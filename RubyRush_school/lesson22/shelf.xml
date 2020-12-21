@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shelf>
+<books>
+  <book author='Льюис Кэррол' genre='Сказка' qnt='10' price='185'>
+    книга "Алиса в Стране чудес" </book>
+  <book author='Роберт Стивенсон' genre='Приключения' qnt='15' price='240'>
+    книга "Остров Сокровищ" </book>
+</books>
+
+<movies>
+<movie director='Джеймс Кэмерон' year='1999' qnt='1' price='500' > Диск "Титаник"</movie>
+<movie director='Джеймс Кэмерон' year='1987' qnt='3' price='400' > Диск "Хищник"</movie>
+</movies>
+</shelf>
