@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <card>
+    <fio>
+      <name>Ilya</name>
+      <surname>Mur</surname>
+    </fio>
+    <e-mail>ilyam@hotmail.com</e-mail>
+<skills>
+    - Чтение электрических схем
+    - Обслуживание энергетических установок
+    - Хорошая устная и письменная речь
+</skills>
+
+  </card>
